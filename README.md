@@ -4,7 +4,7 @@
 
 <br />
 
-- 🔭 I’m currently working on **Electrical Autmatisation**
+- 🔭 I’m currently working on **Electrical Automatisation**
 
 - 🌱 I’m currently learning **Dart/Flutter** 
 
