@@ -27,7 +27,9 @@
 - ✅ Appwrite.io
 - ✅ Dart
 - ✅ Flutter 
-
+- ✅ HTML
+- ✅ CSS
+  
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimyvm&show_icons=true)
 <br />[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimyvm&layout=compact)](https://github.com/Dimyvm/github-readme-stats)
