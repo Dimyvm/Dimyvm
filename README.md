@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Electrical Automatisation**
 
-- 🌱 I’m currently learning **Dart/Flutter** 
+- 🌱 I’m currently learning **Python** 
 
 - ⚡ Fun fact: **I love Coffee and DIY stuff**
 -->
@@ -29,6 +29,8 @@
 - ✅ Flutter 
 - ✅ HTML
 - ✅ CSS
+- ✅ Python
+  
   
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dimyvm&show_icons=true)
